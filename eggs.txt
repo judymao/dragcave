@@ -1,0 +1,9 @@
+This egg is very reflective, almost metallic-looking.=gold
+This egg gives off a beautiful glow.=silver
+Mana flows like a current through this glassy egg.=staterae
+Mana courses throughout this glassy egg.=xenowyrm
+This egg is encrusted with colorful gemstones.=gemshard
+Something about this egg seems to lure you in.=cantormaris
+This egg gleams with a reddish shine.=copper
+This egg reminds you of the night sky.=astaarus
+This egg looks like a beautiful blue stone.=sapphire
